@@ -12,3 +12,15 @@ I still having access to one of the NoneRev (earlier known as node16) ct8.pl acc
 btw dont use this code cus its shit and skidded from other dead/opensource revivals.
 
 - TheGuyWhoIsIdiot
+
+People who worked at nonerev (node16):
+1. usb (owner and founder of this revival)
+2. meditation (me and co-founder of this revival)
+3. koutch the idiot (shall not talk about him)
+4. Cozmo (aep d1ckrider alert!!!!)
+5. brambora (milkman lol)
+6. doge (as i totally remember).
+
+Thats all as i remember, the revival didnt last over 2 weeks cus lack of work and the source is incomplete/unsafe as hell. DB will be there too guys.
+
+Btw i'm posting RBLX15 src

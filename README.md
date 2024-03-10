@@ -21,6 +21,6 @@ People who worked at nonerev (node16):
 5. brambora (milkman lol)
 6. doge (as i totally remember).
 
-Thats all as i remember, the revival didnt last over 2 weeks cus lack of work and the source is incomplete/unsafe as hell. DB will be there too guys.
+Thats all as i remember, the revival didnt last over 2 weeks cus lack of work and the source is incomplete/unsafe as hell. DB is included too guys.
 
 Btw i'm posting RBLX15 src

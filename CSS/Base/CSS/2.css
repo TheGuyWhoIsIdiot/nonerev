@@ -1,0 +1,27 @@
+/* ~/CSS/Pages/Home/Home.css */
+#TopAdContainer{margin:0 auto;}.top-ad-970{width:970px;padding-left:5px;}.top-ad-728{width:728px;margin:auto;}#Skyscraper-Ad{text-align:center;}#LeftGutterAdContainer,#RightGutterAdContainer{margin-top:35px;z-index:900;}#AdvertisingLeaderboard{margin-bottom:0;}.home-container{margin-left:10px;}.home-container h1{display:block;}.left-column{width:230px;float:left;border-right:1px solid #ccc;}.left-column-boxes{padding:10px;overflow:hidden;border-top:1px solid #ccc;}.middle-column{margin-left:10px;padding-right:10px;float:left;width:460px;border-right:1px solid #ccc;}.middle-column h2{margin:10px 0;}.right-column{float:left;width:230px;}.right-column-box{border-top:1px solid #ccc;padding:10px;}.right-column-box #CashOutWidget{border:none!important;padding:0!important;}.see-more-img{width:9px;height:9px;margin-left:5px;}.news-container{margin-top:6px;}.best-friends-container{margin-top:9px;}.share-button{padding:0 20px!important;float:right;}.status-update{padding:5px;background-color:#e6e6e6;}.user-avatar-holder{margin:0 auto;position:relative;width:210px;}.user-avatar-text{padding-top:10px;}.no-top-border{border-top:none!important;}.user-avatar-container{text-align:center;}.user-avatar-overlay-image{position:absolute;left:0;bottom:0;}.feed-container{padding:10px 0;width:100%;margin-right:10px;}.feed-image-container{float:left;padding:0 5px 5px 5px;}.feed-text-container{float:left;width:380px;overflow-x:hidden;word-wrap:break-word;}.feed-report-abuse{float:left;}.post-to-facebook{text-align:right;margin-top:5px;}.edit-friends-button{float:right;margin-right:4px;}.best-friends-title{float:left;}.recent-place-container{margin-bottom:12px;overflow:hidden;}.recent-place-thumb{float:left;margin-right:8px;}.recent-place-link{font-weight:bold;font-size:12px;display:block;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;}.recent-place-players-online{color:#666;}.recent-place-thumb-img{width:50px;height:31px;}.recent-place-thumb-ps-overlay{vertical-align:bottom;padding-left:2px;}.roblox-news-feed{margin-bottom:15px;}.roblox-news-feed-item{background:url('/web/20180413000928im_/http://www.roblox.com/images/BulletPointArrow.png') no-repeat 0 5px;padding-left:15px;margin-bottom:10px;}.facebook-share-container{margin:3px 0;}.facebook-share-result{margin:5px 10px;}.status-update-image{margin:5px;}.status-textbox{width:360px;float:left;}.best-friends .user{margin:10px 0;}.best-friends .user .avatar-image-link{float:left;}.best-friends .user .avatar-image-link img{height:48px;width:48px;}.best-friends .user .info{float:left;width:144px;margin-left:5px;margin-top:5px;}.best-friends .user .info img{height:9px;width:9px;margin-right:2px;}.best-friends .user .name{font-weight:bold;}.best-friends .user .status{margin-top:5px;word-wrap:break-word;overflow-x:hidden;}.user-avatar{display:inline-block;width:100%;height:100%;}.user-avatar>img{display:none;width:100%;height:100%;}.user-avatar-overlay-image{position:absolute;bottom:0;left:0;}.thumbnail-holder{width:inherit;height:inherit;}.thumbnail-spinner{width:inherit;height:inherit;}@media screen and (min-width:1480px){.nav-container .nav-content .nav-content-inner #MasterContainer{margin-left:0;}}@media screen and (min-width:1359px){.nav-container .nav-content #MasterContainer{margin-left:115px;}.nav-container.no-gutter-ads .nav-content #MasterContainer{margin-left:0;}.nav-container #RightGutterAdContainer.topMargin{margin-left:970px;}}
+/* ~/CSS/Pages/Home/RobloxFeed.css */
+.default-feed-character-image{width:56px;height:83px;margin:5px 10px 0 20px;}.default-feed-icons{float:left;margin-right:20px;width:53px;height:53px;}.default-roblox-feed{margin:20px;margin-right:0;}.default-feed-image{width:90px;height:60px;}.default-feed-user-image{width:90px;}.default-feed-content{float:right;width:375px;}
+/* ~/CSS/Pages/Notifications/Notifications.css */
+.feedification{overflow:auto;padding-top:10px;padding-bottom:10px;}.feedification-icon{float:left;margin-right:13px;width:60px;height:70px;}.feedification-icon img{position:relative;top:1px;left:-1px;}.pagification{overflow:hidden;padding:10px;}.pagification-icon{float:left;overflow:hidden;margin-right:13px;}.pagification-body{float:left;width:877px;overflow:hidden;}.pagification-message{overflow:hidden;}.pagification-showall{display:none;}.pagification-collapse{display:inline;}.collapsed .pagification-message{height:35px;}.collapsed .pagification-showall{display:inline;}.collapsed .pagification-collapse{display:none;}
+
+/*
+     FILE ARCHIVED ON 00:09:28 Apr 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:50:43 Sep 04, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 90.503
+  exclusion.robots: 0.086
+  exclusion.robots.policy: 0.077
+  cdx.remote: 0.069
+  esindex: 0.009
+  LoadShardBlock: 48.161 (3)
+  PetaboxLoader3.datanode: 735.456 (4)
+  load_resource: 789.886
+  PetaboxLoader3.resolve: 98.279
+*/

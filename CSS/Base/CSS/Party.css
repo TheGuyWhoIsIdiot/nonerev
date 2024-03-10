@@ -1,0 +1,545 @@
+.ActiveChatThumb
+{
+    z-index: 10;
+    cursor: pointer;
+}
+#party-container
+{
+    position:relative;
+    bottom:5px;
+    right: 10px;
+  z-index:1022;  
+}
+
+.party-window {
+  height:auto;
+  width: 250px;
+}
+
+.party-window .title
+{
+    background-color: #0E6FF8;
+  background-image: linear-gradient(to bottom, #0E6FF8, #0A5CCE);
+    display: block;
+    text-decoration: none;
+    padding-left: 2px;
+    height: 30px;
+    width:252px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.party-window .title span
+{
+    display: block;
+    height: 30px;
+    line-height: 28px;
+    padding: 2px 15px 2px 7px;
+    text-decoration: none;
+    color:#fff;
+}
+
+.party-window .title-flash
+{
+    background-position: left -202px;
+}
+
+.party-window .closeparty {
+  width:10px;
+  height:9px;
+  margin: 5px 9px 0 0;
+  cursor:pointer;
+  position:absolute;
+    right:0;
+    top:0;
+  color: #fff;
+  font-weight: bold;
+  font-size:14px;
+}
+
+.party-window .main {
+  clear: both;
+  width: 252px;
+  height: auto;
+  margin: 0;
+  background: #f2f2f2;
+  border: 1px solid #a6a6a6;
+  border-top: 0px none;
+  overflow:auto;
+}
+
+.party-window .kick-user 
+{
+    float: right;
+    padding-right: 5px;
+    cursor: pointer;
+    background: url('http://www.roblox.com/images/Groups/x_icon_red.png') 0 -15px no-repeat;
+    height: 15px;
+    width: 15px;
+}
+.party-window .kick-user>a,
+.party-window .kick-user>a:hover {
+    text-decoration:none;
+    width:15px;
+}
+
+.party-window #invite-header {
+    font-weight: bold;
+    padding: 10px;
+    color: green;
+}
+
+.party-window .party-invite-buttons {
+    text-align: center;
+}
+
+#new_party p {
+  text-align:center;
+  padding: 40px 0 0 0;
+}
+
+.main #new_party_clear {
+  padding: 40px 0 0 0;
+}
+
+/* Party Invite CSS */
+
+.main h1 {
+  padding: 15px 20px 15px 20px;
+  font-size: 130%;
+  text-align:center;
+}
+.main #invite_status {
+  padding: 10px 0 10px 0;
+}
+.main p {
+  padding: 0 0 7px 0;
+}
+.main #invite_clear {
+  padding: 15px 0 0 0;
+}
+
+/* Party Leader css */
+
+dt {
+  float: left;
+}
+dd {
+  margin-left: 30px;
+}
+
+.status {
+  color:gray;
+  font-size:11px;
+}
+.chat-sender-self {
+  font-weight:bold;
+  color:#0066cc;
+}
+.chat-sender {
+  font-weight:bold;
+  color:#007b00;
+}
+.name_status {
+  font-weight:bold;
+}
+
+.members dl {
+  padding: 0 0 0 5px;
+}
+.members dt {
+  padding: 4px 0 0 0;
+}
+.members dd {
+  padding: 4px 0 1px 0;
+}
+
+.main p {
+  padding: 10px 0 5px 0px;
+  text-align:center;
+}
+
+#chat_messages {
+  padding: 0px 3px 3px 3px;
+  margin: 5px 5px 0 5px;
+  height:217px;
+  overflow:auto;
+  background-color:white;
+  border: 1px solid #aaa;
+  font-size: 14px;
+  line-height:18px;
+}
+#chat_messages li {
+  padding: 6px 0 0 0;
+  list-style-type: none;
+}
+
+#party_game_thumb
+{
+    width: 75px;
+    margin-right: 5px;
+    float: left;
+}
+#party_current_game
+{
+    margin: 10px 5px 5px;
+}
+#party_game_name
+{
+    width: 140px;
+    float: left;
+}
+#party_game_follow_me
+{
+    margin-top: 5px;
+}
+
+#chat_input {
+  margin: 5px 5px 0 5px;
+  padding-right:2px;
+}
+
+#chat_input input {
+  border: 1px solid #ccc;
+  width:236px;
+  height: 40px;
+}
+
+#chat_input textarea {
+  border: 1px solid #aaa;
+  overflow: auto;
+  width: 236px;
+  height:50px;
+}
+
+.main #leader_clear {
+  padding: 15px 0 0 0;
+}
+
+.party-window .party-invite-box {
+    color:#888;
+    padding: 0 6px;
+}
+.party-window .party-invite-box:focus {
+    color:#000;
+}
+.party-window .report-link {
+    text-decoration: none;
+    color: Red;
+    cursor: pointer;
+}
+.party-window .report-link:hover {
+    text-decoration: underline;
+}
+
+a.party-btn-link {
+    color:#fff;
+    text-decoration: none;
+}
+
+.party-window .party-chat-message {
+    margin-bottom: 5px;
+}
+
+#party-tab > a:hover,
+#social-settings-tab > a:hover {
+    text-decoration: none;
+}
+
+#friend_dock_container .tab-container>div,
+#social-dock-tab
+{
+    padding: 2px 7px;
+    margin: 4px 1px 0 1px;
+    top: 0;
+}
+#social-dock-tab {
+    right: 5px;
+}
+#social-dock-tab a:hover {
+    text-decoration: none;
+}
+.friend_dock_chatsettings
+{
+  background-color:#E5E5E5;
+  border:solid 1px black;
+  width: 252px;
+  margin-right:10px;
+  z-index: 1022;
+  position:absolute;
+  top: -372px;
+    right: 0;
+    display: block; /* This is a span with 'display: block'. This is intentional to avoid triggering the 'tab-container>div' style rule. */
+}
+div.friend_dock_chatbox
+{
+  float:left;
+  background-color:#E5E3E4;
+  width:200px;
+  margin-right:10px;
+  border: solid 1px #7F7F7F;
+  padding-bottom: 10px;
+}
+div#friend_dock_chatholder
+{      
+    position:absolute;
+    bottom:5px;
+    left: 5px;
+  z-index:1022;
+}
+
+div#friend_dock_container
+{
+    width: 100%;
+    z-index:1022;
+}
+
+div#friend_dock_titlebar ul
+{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+div#friend_dock_thumb_container
+{
+    border: solid 1px #7F7F7F;
+    background-color: White;
+    height: 74px;
+    padding: 5px;
+    width: 100%;
+    overflow: hidden;
+}
+div#friend_dock_titlebar
+{
+    height: 18px;
+    position: relative;
+}
+div#friend_dock_minimized_container
+{
+    width: 100%;       
+    z-index:1022;
+}
+
+div#friend_dock_friendzone,
+div#friend_dock_chatzone
+{
+  float:left;
+  height:65px;
+  margin-top:5px;
+  margin-right:10px;
+  margin-left:10px;
+}        
+div.friend_dock_chatbox_closebutton
+{
+  float:right;
+  padding-right:5px;
+  font-weight:bold;
+}
+div.friend_dock_chatbox_closebutton a:hover
+{
+    color: #fff;
+    text-decoration: none;
+}
+div.friend_dock_chatbox_username
+{
+  width:150px;
+  float:left;
+    font-size:14px;
+  color:White;  
+}
+div.friend_dock_chatbox_chat
+{
+  background-color:White; 
+  border: solid 1px black;
+  margin:5px 0 10px 10px;
+  width:176px; 
+  padding:2px;
+  height:196px;
+  overflow:auto;
+}
+.friend_dock_chatbox_chat>div {
+    margin-bottom:3px;
+}
+textarea.friend_dock_chatbox_entry
+{
+  margin-left:10px;
+  width:176px;
+  padding: 2px;
+  overflow:auto;
+  overflow-x: hidden;
+}
+span.friend_dock_onlinestatus,
+span.friend_dock_offlinestatus,
+div.friend_dock_onlinestatus,
+div.friend_dock_offlinestatus
+{
+  position:absolute;
+  margin-left:16px;
+  width:16px;
+  height:16px;
+  background-repeat:no-repeat;
+  background-image:url(http://www.roblox.com/images/online.png);
+}
+div.friend_dock_onlinestatus,
+div.friend_dock_offlinestatus
+{
+  margin-top:5px;
+  margin-left:5px;
+}
+span.friend_dock_offlinestatus,
+div.friend_dock_offlinestatus
+{
+  background-image:url(http://www.roblox.com/images/offline.png);
+}
+div.friend_dock_friend
+{
+  width:50px; 
+  height:70px;
+  overflow:hidden; 
+  margin-right:10px; 
+  margin-bottom:10px; 
+  float:left;
+}
+div.friend_dock_pager
+{
+  width:16px;
+  height:16px;
+  margin:25px 10px 10px 0px;
+}
+.friend_dock_username
+{
+  height:15px; 
+  overflow:hidden;
+  float:left;
+  width: 55px;
+}
+.friendBarDropDown
+{
+    position:absolute; 
+    margin-top:0px; 
+    margin-left:28px;
+    z-index:10;
+}
+.friendBarDropDownList
+{
+    display: none;
+    float: left;
+    z-index: 10;
+    height: 0;
+}
+.friendBarDropDownList
+{
+    position: relative;
+    height: 100%;
+    width: 120px;
+    border: 1px solid black;
+}
+.friendBarDropDownList > ul
+{
+    list-style: none outside none;
+    margin: 0; 
+    padding-left: 0; 
+}
+.friendBarDropDownList li
+{
+    background-color: White;
+    cursor: pointer;
+    float: left;
+    position: relative;
+    list-style: none;
+    display: block;
+    z-index: 11;
+    height: 18px;
+}
+.friendBarDropDownList li > div
+{
+    margin: 0 2px;
+    width: 116px;
+}
+.friendBarDropDownList li:hover
+{
+    background-color: #0E6FF8;
+    color: #fff;
+}
+.friend-bar-dropdown-button
+{
+     background: url(http://www.roblox.com/images/friendsbar/friend_dropdownBtn20h.jpg);
+     float: left; 
+     cursor: pointer;
+     height: 20px;
+     width: 20px;
+     background-position: top left;    
+}
+.friend-bar-dropdown-button:hover
+{
+    background-position: bottom left;
+}
+
+#friends-tab-dock-thumbnails-empty,
+#best-friends-tab-dock-thumbnails-empty,
+#recents-tab-dock-thumbnails-empty,
+#chats-tab-dock-thumbnails-empty {
+    display:none;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+div.chat_settings_group_header
+{
+    font-weight: bold;
+    margin-bottom: 5px; 
+}
+
+div.chat-header-blink-off,
+div.chat-header-blink-on
+{
+  background-color: #FF8000;
+  background-image: linear-gradient(to bottom, #FF8000, #AA4A00);
+    border: none;
+  height: 30px;
+  line-height: 30px;
+  padding: 2px;
+}
+div.chat-header-blink-off
+{
+  background-color: #0E6FF8;
+  background-image: linear-gradient(to bottom, #0E6FF8, #0A5CCE);
+}
+
+div.tab.chat-tab-flash,
+div.tab.chat-tab-flash:hover,
+div.tab.chat-tab-flash>a {
+    background-color: #3366cc;
+    color:White;
+}
+
+/* Chat overlay for loading message */
+.chat-loading-overlay,
+.chat-loading-message {
+  margin: 0;
+  padding: 0;
+  cursor: wait;
+  position: absolute;
+    
+}
+.chat-loading-overlay {
+  z-index: 1000;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.6;
+  border: none;
+  background-color: #000;
+}
+.chat-loading-message {
+  z-index: 1001;
+  width: 30%;
+  top: 148.5px;
+  left: 62px;
+  text-align: center;
+  border: 3px solid #0E6FF8;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 5px 2px;
+}

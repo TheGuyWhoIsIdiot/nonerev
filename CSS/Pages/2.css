@@ -1,0 +1,29 @@
+/* ~/CSS/Pages/IDE/Login.css */
+html{background-color:#fff;}#loginBody{margin-top:20px;margin-left:21px;margin-right:21px;font-family:Arial,Verdana,sans-serif;}#loginPanel{float:left;}#loginPanel label{padding-right:5px;}#loginPanel input[type="text"],input[type="password"]{width:242px;}#loginPanel input[type="password"]{margin-left:1px;}#username{font-weight:bold;font-size:12px;margin-bottom:22px;}#password{font-weight:bold;font-size:12px;margin-bottom:22px;}#forgotPasswordPanel{float:left;line-height:38px;margin-bottom:10px;font-size:12px;color:#095FB5;margin-top:2px;}#signInButtonPanel{float:right;text-align:center;margin-bottom:10px;}div .clearFloats{height:0;line-height:0;display:block;clear:both;}#SplashPageConnect{border-top:1px solid;border-color:#c0c0c0;text-align:center;padding-top:20px;}#signUpPanel{float:right;text-align:center;width:400px;height:auto;padding-top:5px;padding-left:2px;margin-right:0;}#signUpPanel p{margin-top:9px;margin-bottom:5px;font-size:12px;}#signUpPanel h2{margin-top:0;margin-bottom:6px;}#signUpPanel select{margin-top:5px;border:1px solid #A7A7A7;}#signUpPanel input{margin-top:15px;}p#disclaimer{margin-top:5px;padding-top:2px;color:#666;display:block;font-size:11px;}div.validation-summary-errors{background-color:#FAE5E5;border:1px solid #C00;margin-top:22px;padding:5px 0 5px 5px;font-size:12px;font-weight:normal;text-align:left;margin-bottom:20px;margin-left:1px;}a.btn-primary{margin-top:14px;margin-bottom:13px;}div.validation-summary-errors ul{padding:0;margin:0;list-style-type:none;}div.validation-summary-errors ul li{list-style-type:none;}div#recaptcha_widget_div{margin-top:-3px;margin-bottom:9px;}#signUpPanel select{font-size:12px;}#logintable td{padding-bottom:20px;padding-right:0;}
+/* ~/CSS/Base/CSS/iFrameLogin.css */
+.fbSplashPageConnect{margin:5px 0;}a.facebook-login,a.facebook-login:visited{display:inline-block;text-decoration:none;font-weight:normal!important;font-size:12px!important;}a.facebook-login:hover span.left,a.facebook-login:hover span.middle{background-position:left bottom;}a.facebook-login:hover span.right{background-position:right bottom;}a.facebook-login span.left,a.facebook-login span.right,a.facebook-login span.middle{float:left;height:25px;line-height:14px;}a.facebook-login span.left{width:27px;background:url(/web/20141010132723im_/https://www.roblox.com/images/facebook/bg-fblogin_sides.png) left top no-repeat;}a.facebook-login span.middle{height:18px;width:auto;background:url(/web/20141010132723im_/https://www.roblox.com/images/facebook/bg-fblogin_middle.png) left top repeat-x;color:#394f7d;padding:7px 2px 0 6px;}a.facebook-login span.middle span{display:block;color:#fff;position:relative;bottom:16px;}a.facebook-login span.right{width:5px;background:url(/web/20141010132723im_/https://www.roblox.com/images/facebook/bg-fblogin_sides.png) right top no-repeat;}.newLogin{margin:10px;}.iframe-login-signup{margin-top:6px;float:right;position:relative;}#header-login .grey-arrow{color:#666;font-size:12px;}#header-login.btn-control.btn-control-large.active{background-image:none;background-color:#e1e1e1;border-color:#000;}#header-login{font-weight:600;display:inline-block;width:62px;position:relative;cursor:pointer;letter-spacing:-1px;font-size:15px;}#header-signup{font-weight:600;color:#fff;font-size:15px;position:relative;}#header-or{font-weight:normal;color:#9Ec3E7;font-size:13px;position:relative;margin:0 6px;}.login-frame{height:100%;width:100%;}#iFrameLogin{border:1px solid #0C3060;border-top:none;height:128px;position:absolute;right:0;top:26px;width:340px;}#facebookSignIn{margin-top:8px;margin-bottom:10px;text-align:center;}
+/* ~/CSS/Pages/Login/iframeLogin.css */
+#facebookSignIn{text-align:center;margin-top:8px;margin-bottom:10px;}.LoginFormFieldSet{position:relative;height:39px;*margin-top:-10px;}.UserNameDiv{float:left;width:156px;}.PasswordDiv{float:right;width:158px;position:relative;}.LoginFormInput{*margin-left:-10px;}#SocialNetworkSignIn{border-top:1px solid #ACACAC;}
+/* ~/CSS/Pages/Login/Login.css */
+div#loginarea{display:block;overflow:hidden;}td{padding-bottom:20px;padding-right:0;}div#leftArea{float:left;width:465px;padding-bottom:20px;padding-left:20px;}#signUpPanel{float:none;margin:0 auto;}div#rightArea{width:484px;overflow:hidden;padding-bottom:20px;}div#guestarea{clear:both;}div#guestarea h2{padding-top:18px;}div#guestarea p{display:inline-block;}a[roblox-js-oncancel]{display:none;}input[type="text"],input[type="password"]{margin-bottom:0;}#SplashPageConnect{border:none;border-color:#c0c0c0;text-align:center;padding-top:20px;}#Body{width:970px;}
+
+/*
+     FILE ARCHIVED ON 13:27:23 Oct 10, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:21:52 Sep 07, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 63.014
+  exclusion.robots: 0.466
+  exclusion.robots.policy: 0.435
+  cdx.remote: 0.181
+  esindex: 0.022
+  LoadShardBlock: 31.155 (3)
+  PetaboxLoader3.datanode: 54.562 (5)
+  load_resource: 865.23 (2)
+  PetaboxLoader3.resolve: 820.329 (2)
+*/

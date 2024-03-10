@@ -1,0 +1,23 @@
+/* ~/CSS/Pages/Friends.css */
+.friend-container{float:left;margin:10px;width:100px;height:130px;position:relative;}.friend-avatar{margin:0 0 8px 0;width:100px;height:100px;z-index:0;}.friend-name{margin:0 0 5px 0;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;}.requests-buttons{margin-left:auto;margin-right:auto;width:175px;}#AcceptAllButton{margin-right:10px;}.friends-pager{text-align:center;}.friends-container{display:inline-block;width:850px;}.friend-dropdown{position:absolute;right:0;display:none;z-index:1;}.find-friends{margin-top:10px;}.search-widget{float:left;width:200px;margin-top:-2px;margin-left:5px;}.find-friend{margin-left:20px;float:left;margin-top:-2px;}#FriendRequestsTab .friend-request-error{margin:10px auto;}
+
+/*
+     FILE ARCHIVED ON 23:51:07 Nov 30, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:40:03 Sep 07, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1640.071
+  exclusion.robots: 0.092
+  exclusion.robots.policy: 0.08
+  cdx.remote: 0.072
+  esindex: 0.01
+  LoadShardBlock: 1610.988 (3)
+  PetaboxLoader3.datanode: 1386.321 (5)
+  load_resource: 708.919 (2)
+  PetaboxLoader3.resolve: 572.549 (2)
+*/
